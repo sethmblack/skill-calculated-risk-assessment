@@ -1,10 +1,9 @@
 ---
 name: calculated-risk-assessment
-description: Systematically evaluate whether a goal justifies its risks, then commit
-  fully or walk away—eliminating the wasteful middle ground of worry.
+description: Systematically evaluate whether a goal justifies its risks, then commit fully or walk away—eliminating the wasteful middle ground of worry.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - calculated-risk-assessment
