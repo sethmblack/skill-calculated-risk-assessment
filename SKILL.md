@@ -3,8 +3,8 @@ name: calculated-risk-assessment
 description: Systematically evaluate whether a goal justifies its risks, then commit fully or walk away—eliminating the wasteful middle ground of worry.
 license: MIT
 metadata:
-  version: 1.0.3522
   author: sethmblack
+  version: 1.0.3523
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - calculated-risk-assessment
